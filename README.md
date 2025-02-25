@@ -1,2 +1,3 @@
 # BTCUSDT_strategy
-Analysis and backtest of a trading strategy on BTC/USDT
+Development of a custom Python library for data fetching, cleaning, visualization, modeling, and backtesting.
+Check it in develop branch.
